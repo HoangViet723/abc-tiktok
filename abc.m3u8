@@ -1,5 +1,7 @@
+#EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:24
-#EXTINF:22.44,
-https://www.redgifs.com/watch/worthlesshungryraccoon.mp4
+#EXT-X-TARGETDURATION:60
+#EXT-X-PLAYLIST-TYPE:EVENT
+#EXTINF:60.0,
+https://media.redgifs.com/ShrillKnowledgeableCod.mp4
 #EXT-X-ENDLIST
